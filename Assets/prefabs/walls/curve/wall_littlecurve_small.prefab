@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6126523245232178234}
   m_Layer: 0
-  m_Name: wall_little_bot_right
+  m_Name: wall_littlecurve_small
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
