@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Batteur_D
+  m_Controller: {fileID: 9100000, guid: b817b1dc417a4344286479bfa7315836, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 00c4742c86b057943bcf6dd511dd4a62, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1b8567f7e42d14840bf08858d1cd4c9f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 92ac4931e14a22944b751a0145a1ff3e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b02e3b86d04dfa644b166be084e5508d, type: 2}
